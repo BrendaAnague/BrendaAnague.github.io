@@ -1,0 +1,103 @@
+---
+title: "Research"
+pagetitle: "Research | Brenda Anague"
+title-block-style: none
+toc: false
+css: styles.css
+---
+
+::: {.flow .first .activities}
+
+## Research projects
+
+### Doctoral research
+
+:::: {.events}
+
+::: {.tl-item}
+[2026]{.tl-year}
+[Convergence analysis of PINNs for parabolic PDEs under spectral Barron space regularities []{.tag}]{.tl-title}
+[Ongoing project]{.tl-place}
+:::
+
+::: {.tl-item}
+[2026]{.tl-year}
+[Equation learning, Source function and initial condition approximation for parabolic PDEs from sparse data []{.tag}]{.tl-title}
+[Ongoing project]{.tl-place}
+
+:::
+
+::: {.tl-item}
+[2025]{.tl-year}
+[Physics-Informed Neural Networks for Joint Source and Parameter Estimation in Advection–Diffusion Equations]{.tl-title}
+[with Dr. Bamdad Hosseini, Dr. Issa Karambal and Dr. Jean Medard Ngnotchouye]{.tl-detail}
+[arXiv](https://arxiv.org/abs/2512.07755)
+
+:::
+
+::::
+
+### Internship and Master’s research
+
+:::: {.events}
+
+::: {.tl-item}
+[Dec 2024–Apr 2025]{.tl-year}
+[Retrieval of biological and chemical crop traits from hyperspectral and multispectral data using PINNs]{.tl-title}
+[Supervised by: Ibrahim Saliyu Yusuf]{.tl-detail}
+[Internship project, InstaDeep]{.tl-place}
+
+:::
+
+::: {.tl-item}
+[Apr–Jun 2022]{.tl-year}
+[The study of over-parameterization for physics-informed neural networks]{.tl-title}
+[MSc thesis, African Institute for Mathematical Sciences (AIMS) Cameroon. Supervised by: Dr Yunan Yang, Cornell University.  ]{.tl-place}
+
+:::
+
+::: {.tl-item}
+[Mar–Jul 2021]{.tl-year}
+[Valuation and hedging of options in discrete markets]{.tl-title}
+[MSc thesis, supervised by Prof. Deugoué Gabriel, University of Dschang, Cameroon]{.tl-place}
+ 
+:::
+
+::::
+
+### Earlier projects
+
+:::: {.events}
+
+::: {.tl-item}
+[Oct 2020–Jan 2021]{.tl-year}
+[Finite element methods for elliptic problems and simulation]{.tl-title}
+[ University of Dschang, Cameroon. Supervised by: Dr. Laurent Tchoualag ]{.tl-place}
+
+:::
+
+::: {.tl-item}
+[Oct 2020–Jan 2021]{.tl-year}
+[The Hamilton–Jacobi equation]{.tl-title}
+[University of Dschang, Cameroon. Supervised by: Prof. Jean Louis Woukeng]{.tl-place}
+:::
+
+::: {.tl-item}
+[Oct 2019–Jan 2020]{.tl-year}
+[Sobolev spaces and the variational formulation of elliptic boundary value problems in N dimensions]{.tl-title}
+[University of Dschang, Cameroon. Supervised by: Prof. Calvin Tadmon.]{.tl-place}
+:::
+
+::: {.tl-item}
+[Mar–Jul 2019]{.tl-year}
+[Use of kinetic theory to build a biological model]{.tl-title}
+[BSc thesis, supervised by: Dr. Jean Baptiste Patenou University of Dschang, Cameroon]{.tl-place}
+:::
+
+::::
+## Publications and Preprints {#publications}
+::: {.tl-item}
+[2025]{.tl-year}
+[Physics-Informed Neural Networks for Joint Source and Parameter Estimation in Advection–Diffusion Equations]{.tl-title} [arXiv](https://arxiv.org/abs/2512.07755)
+
+:::

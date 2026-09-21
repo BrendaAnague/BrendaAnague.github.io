@@ -1,0 +1,107 @@
+::: {.flow}
+
+::: {.closing}
+For a full version of my CV, please refer to the [pdf](Brenda_Anague_CV.pdf).
+:::
+
+:::
+::: {.flow .first}
+
+## Education
+
+:::: {.events}
+
+::: {.tl-item}
+[2023–present]{.tl-year}
+[PhD in Applied Mathematics]{.tl-title}
+[AIMS RIC, Rwanda, and University of KwaZulu-Natal, South Africa]{.tl-place}
+[Thesis: “Physics-Informed Neural Networks Beyond Forward Problems: Source Inversion, Equation Learning, and Convergence Theory”]{.tl-detail}
+[Supervisors: Dr. Bamdad Hosseini, Dr. Issa Karambal and Dr. Jean Medard Ngnotchouye ]{.tl-detail}
+:::
+
+::: {.tl-item}
+[2021–2022]{.tl-year}
+[MSc in Mathematical Sciences]{.tl-title}
+[African Institute for Mathematical Sciences (AIMS), Limbe, Cameroon]{.tl-place}
+[Thesis: “The Study of Over-parameterization for Physics-Informed Neural Networks”]{.tl-detail}
+[Supervisor: Dr. Yunan Yang ]{.tl-detail}
+:::
+
+::: {.tl-item}
+[2019–2021]{.tl-year}
+[MSc in Applied Mathematics]{.tl-title}
+[University of Dschang (UDs), Dschang, Cameroon]{.tl-place}
+[Thesis: “Valuation and Hedging of Options in Discrete Markets”]{.tl-detail}
+[Supervisor: Prof. Gabriel Deugoué ]{.tl-detail}
+:::
+
+::: {.tl-item}
+[2016–2019]{.tl-year}
+[BSc in Mathematics and Computer Science]{.tl-title}
+[University of Dschang (UDs), Cameroon]{.tl-place}
+
+
+::::
+
+
+::: {.sections .flow .activities}
+
+## Awards and funding
+
+### Prizes
+
+:::: {.events}
+
+::: {.tl-item}
+[Aug 2025]{.tl-year}
+[Poster Prize, Deep Learning Indaba Conference (Rwanda)]{.tl-title}
+[Awarded by NVIDIA]{.tl-place}
+:::
+
+::: {.tl-item}
+[Sep 2024]{.tl-year}
+[Young African AI Research (YAAIR) Prize Winner, Deep Learning Indaba Conference (Senegal)]{.tl-title}
+[6 months internship, awarded by InstaDeep]{.tl-place}
+:::
+
+::: {.tl-item}
+[Sep 2024]{.tl-year}
+[Poster Prize, Deep Learning Indaba (Senegal): Women in Machine Learning (WIML) Mentorship]{.tl-title}
+[Fully sponsored by CISPA]{.tl-place}
+:::
+
+::: {.tl-item}
+[Sep 2024]{.tl-year}
+[Third place Senegalese Serpent Venom Sequence Hackathon Prize, Deep Learning Indaba Conference (Senegal)]{.tl-title}
+[1000 usd Awarded by InstaDeep]{.tl-place}
+:::
+
+::::
+
+### Fellowships and scholarships
+
+:::: {.events}
+
+::: {.tl-item}
+[Nov 2022–Nov 2026]{.tl-year}
+[PhD fellowship: AIMS RIC and DeepMind]{.tl-title}
+[Fully funded]{.tl-place}
+:::
+
+::: {.tl-item}
+[2021–2022]{.tl-year}
+[Scholarship: African Institute for Mathematical Sciences (AIMS) Cameroon]{.tl-title}
+[Fully funded]{.tl-place}
+:::
+
+::::
+
+:::
+:::
+## Contact
+
+::: {.contact}
+- [AIMS RIC ]{.c-label}[ banague@aimsric.org](mailto:banague@aimsric.org)
+- [UKZN student]{.c-label}[224193340@stu.ukzn.ac.za](mailto:224193340@stu.ukzn.ac.za)
+- [AIMS Cameroon]{.c-label}[brenda.anague@aims-cameroon.org](mailto:brenda.anague@aims-cameroon.org)
+:::

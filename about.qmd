@@ -1,0 +1,10 @@
+---
+title: "About me"
+---
+
+Brenda Anague is currently PhD student in Applied Mathematics, at the Department of Mathematics, at the university of KwaZulu-Natal in South Africa. Her PhD is funded by Deepmind Technologies Limited through the African Institute for Mathematical Sciences Research and Innovation Centre (AIMS RIC) in Rwanda.
+More earlier, she completed a Bachelor in Mathematics and Computer Science in 2019, and a Master in Applied Mathematics in 2021 from the University of Dschang in Cameroon. In additon, she later graduated in 2022 with a second master in  Mathematical Science from the African Institute for Mathecatical Sciences (AIMS) Cameroon. 
+
+She is currently  working at the intersection of partial differential equations and scientific computing with a particular focus on developing robust computation methods for solving source inversion problems of PDEs using PINNs,  as well as conducting theoretical convergence analysis of PINNs for approximating PDEs solutions.
+
+
