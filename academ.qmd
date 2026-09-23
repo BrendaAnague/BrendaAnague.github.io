@@ -17,7 +17,7 @@ css: styles.css
 ::: {.tl-item}
 [17–22 Aug]{.tl-year}
 [Deep Learning Indaba Conference]{.tl-title}
-[Kigali, Rwanda]{.tl-place}
+[Kigali, Rwanda.]{.tl-place}
 :::
 
 ::::
@@ -29,32 +29,32 @@ css: styles.css
 ::: {.tl-item}
 [14–15 Nov]{.tl-year}
 [Workshop on TorchPhysics: Deep Learning for PDEs]{.tl-title}
-[Werner-von-Siemens Centre, Berlin, Germany]{.tl-place}
+[Werner-von-Siemens Centre, Berlin, Germany.]{.tl-place}
 :::
 
 ::: {.tl-item}
 [1–8 Sep]{.tl-year}
 [Deep Learning Indaba Conference]{.tl-title}
-[Dakar, Senegal]{.tl-place}
+[Dakar, Senegal.]{.tl-place}
 :::
 
 ::: {.tl-item}
 [3–7 Jun]{.tl-year}
 [Data Science Africa Summer School and Workshop]{.tl-title}
-[Nyeri, Kenya]{.tl-place}
+[Nyeri, Kenya.]{.tl-place}
 :::
 
 ::: {.tl-item}
 [15–19 Apr]{.tl-year}
-[Workshop: From Theory to Practice in Data Science [Talk on Physics-informed neural networks for
-atmospheric inverse problems]{.tag}]{.tl-title}
-[Organizers: AIMS RIC, Kigali, Rwanda]{.tl-place}
+[Workshop: From Theory to Practice in Data Science]{.tl-title}<br>
+[Talk on Physics-Informed Neural Networks for Atmospheric Inverse Problems]{.tag}
+[AIMS RIC, Kigali, Rwanda.]{.tl-place}
 :::
 
 ::: {.tl-item}
 [5–7 Feb]{.tl-year}
 [Workshop on AI in Science]{.tl-title}
-[Organizers: Imperial College London and AIMS RIC, Kigali, Rwanda]{.tl-place}
+[Imperial College London and AIMS RIC, Kigali, Rwanda.]{.tl-place}
 :::
 
 ::::
@@ -66,37 +66,37 @@ atmospheric inverse problems]{.tag}]{.tl-title}
 ::: {.tl-item}
 [20–24 Nov]{.tl-year}
 [Global Fellow Program "African Data Science Solutions"]{.tl-title}
-[Organizers: AIMS RIC and Imperial College London, Kigali, Rwanda]{.tl-place}
+[Imperial College London and AIMS RIC, Kigali, Rwanda.]{.tl-place}
 :::
 
 ::: {.tl-item}
 [1–10 Sep]{.tl-year}
 [Deep Learning Indaba Conference]{.tl-title}
-[Accra, Ghana]{.tl-place}
+[Accra, Ghana.]{.tl-place}
 :::
 
 ::: {.tl-item}
 [4–5 May]{.tl-year}
 [Workshop on Physics for Machine Learning]{.tl-title}
-[ICLR, Kigali, Rwanda]{.tl-place}
+[ICLR, Kigali, Rwanda.]{.tl-place}
 :::
 
 ::: {.tl-item}
 [1–5 May]{.tl-year}
 [International Conference on Learning Representations (ICLR)]{.tl-title}
-[Kigali, Rwanda]{.tl-place}
+[Kigali, Rwanda.]{.tl-place}
 :::
 
 ::: {.tl-item}
 [23–27 Apr]{.tl-year}
 [Workshop: From Theory to Practice in Data Science]{.tl-title}
-[Quantum Leap Africa, Rwanda]{.tl-place}
+[Quantum Leap Africa, Rwanda.]{.tl-place}
 :::
 
 ::: {.tl-item}
-[4 Apr]{.tl-year}
-[Doctoral Training School in Data Science {.tag}]{.tl-title}
-[Quantum Leap Africa, Rwanda]{.tl-place}
+[Mar–Apr]{.tl-year}
+[Doctoral Training School in Data Science]{.tl-title}
+[Quantum Leap Africa, Rwanda.]{.tl-place}
 :::
 
 ::::
@@ -104,7 +104,7 @@ atmospheric inverse problems]{.tag}]{.tl-title}
 ::: {.tl-item}
 [Nov 2024]{.tl-year}
 [Center for Industrial Mathematics (ZeTeM, Technomathematics Working Group )]{.tl-title}
-[University of Bremen, Germany]{.tl-place}
+[University of Bremen, Germany.]{.tl-place}
 :::
 
 :::

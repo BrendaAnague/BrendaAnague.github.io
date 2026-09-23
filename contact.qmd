@@ -12,27 +12,27 @@ For a full version of my CV, please refer to the [pdf](Brenda_Anague_CV.pdf).
 :::: {.events}
 
 ::: {.tl-item}
-[2023–present]{.tl-year}
+[Nov 2022–present]{.tl-year}
 [PhD in Applied Mathematics]{.tl-title}
-[AIMS RIC, Rwanda, and University of KwaZulu-Natal, South Africa]{.tl-place}
-[Thesis: “Physics-Informed Neural Networks Beyond Forward Problems: Source Inversion, Equation Learning, and Convergence Theory”]{.tl-detail}
-[Supervisors: Dr. Bamdad Hosseini, Dr. Issa Karambal and Dr. Jean Medard Ngnotchouye ]{.tl-detail}
+[AIMS RIC, Rwanda, and University of KwaZulu-Natal, South Africa]{.tl-place}<br>
+[Thesis: “Physics-Informed Neural Networks Beyond Forward Problems: Source Inversion, Equation Learning, and Convergence Theory”]{.tl-detail}<br>
+[Supervisors: Dr. Bamdad Hosseini (University of Washington, USA), Dr. Issa Karambal (AIMS RIC, Rwanda) and Dr. Jean Medard Ngnotchouye (University of KwaZulu-Natal, SA). ]{.tl-detail}
 :::
 
 ::: {.tl-item}
 [2021–2022]{.tl-year}
 [MSc in Mathematical Sciences]{.tl-title}
-[African Institute for Mathematical Sciences (AIMS), Limbe, Cameroon]{.tl-place}
-[Thesis: “The Study of Over-parameterization for Physics-Informed Neural Networks”]{.tl-detail}
-[Supervisor: Dr. Yunan Yang ]{.tl-detail}
+[African Institute for Mathematical Sciences (AIMS), Limbe, Cameroon.]{.tl-place}<br>
+[Thesis: “The Study of Over-parameterization for Physics-Informed Neural Networks”]{.tl-detail}<br>
+[Supervisor: Dr. Yunan Yang, Cornell University, USA. ]{.tl-detail}
 :::
 
 ::: {.tl-item}
 [2019–2021]{.tl-year}
 [MSc in Applied Mathematics]{.tl-title}
-[University of Dschang (UDs), Dschang, Cameroon]{.tl-place}
-[Thesis: “Valuation and Hedging of Options in Discrete Markets”]{.tl-detail}
-[Supervisor: Prof. Gabriel Deugoué ]{.tl-detail}
+[University of Dschang (UDs), Cameroon]{.tl-place}<br>
+[Thesis: “Valuation and Hedging of Options in Discrete Markets”]{.tl-detail}<br>
+[Supervisor: Prof. Gabriel Deugoué, University of Dschang, Cameroon.  ]{.tl-detail}
 :::
 
 ::: {.tl-item}
@@ -54,26 +54,26 @@ For a full version of my CV, please refer to the [pdf](Brenda_Anague_CV.pdf).
 
 ::: {.tl-item}
 [Aug 2025]{.tl-year}
-[Poster Prize, Deep Learning Indaba Conference (Rwanda)]{.tl-title}
+[Poster Prize, Deep Learning Indaba Conference (Rwanda).]{.tl-title}
 [Awarded by NVIDIA]{.tl-place}
 :::
 
 ::: {.tl-item}
 [Sep 2024]{.tl-year}
-[Young African AI Research (YAAIR) Prize Winner, Deep Learning Indaba Conference (Senegal)]{.tl-title}
-[6 months internship, awarded by InstaDeep]{.tl-place}
+[Young African AI Research (YAAIR) Prize Winner, Deep Learning Indaba Conference (Senegal).]{.tl-title}
+[6 months internship, awarded by InstaDeep.]{.tl-place}
 :::
 
 ::: {.tl-item}
 [Sep 2024]{.tl-year}
-[Poster Prize, Deep Learning Indaba (Senegal): Women in Machine Learning (WIML) Mentorship]{.tl-title}
-[Fully sponsored by CISPA]{.tl-place}
+[Poster Prize, Deep Learning Indaba (Senegal): Women in Machine Learning (WIML) Mentorship.]{.tl-title}
+[Fully sponsored by CISPA.]{.tl-place}
 :::
 
 ::: {.tl-item}
 [Sep 2024]{.tl-year}
 [Third place Senegalese Serpent Venom Sequence Hackathon Prize, Deep Learning Indaba Conference (Senegal)]{.tl-title}
-[1000 usd Awarded by InstaDeep]{.tl-place}
+[1000 usd awarded by InstaDeep.]{.tl-place}
 :::
 
 ::::
@@ -84,14 +84,14 @@ For a full version of my CV, please refer to the [pdf](Brenda_Anague_CV.pdf).
 
 ::: {.tl-item}
 [Nov 2022–Nov 2026]{.tl-year}
-[PhD fellowship: AIMS RIC and DeepMind]{.tl-title}
-[Fully funded]{.tl-place}
+[PhD fellowship: DeepMind and AIMS RIC, Rwanda.]{.tl-title}
+[Fully funded.]{.tl-place}
 :::
 
 ::: {.tl-item}
 [2021–2022]{.tl-year}
-[Scholarship: African Institute for Mathematical Sciences (AIMS) Cameroon]{.tl-title}
-[Fully funded]{.tl-place}
+[Scholarship: African Institute for Mathematical Sciences (AIMS) Cameroon.]{.tl-title}
+[Fully funded.]{.tl-place}
 :::
 
 ::::

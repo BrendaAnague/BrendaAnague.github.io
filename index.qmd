@@ -40,16 +40,16 @@ css: styles.css
 
 I am currently a PhD student in Applied Mathematics in the [Discipline of Mathemtics](https://agriculture-science.ukzn.ac.za/discipline/mathematics/) 
 of the [School of Agriculture and Science](https://agriculture-science.ukzn.ac.za/)  
-at the [University of KwaZulu Natal ](https://ukzn.ac.za/). My research is funded by DeepMind Technologies Limited through the African Institute for Mathematical Sciences Research and Innovation Centre (AIMS RIC) in Rwanda.
+at the [University of KwaZulu Natal ](https://ukzn.ac.za/) (SA). My research is funded by DeepMind Technologies Limited through the African Institute for Mathematical Sciences Research and Innovation Centre (AIMS RIC) in Rwanda.
 
-From 2019 to 2021, I hold my first Master's degree in Applied Mathematics from the University of Dschang (Cameroon), 
-and from September 2021 to June 2022, I completed a second Master's degree in Mathematical Sciences through a Scolarship 
+From 2019 to 2021, I pursued my first Master's degree in Applied Mathematics from the University of Dschang (Cameroon), 
+and from September 2021 to June 2022, I completed a second Master's degree in Mathematical Sciences through a Scholarship 
  at the [African Institute for Mathematical Science Cameroon](https://aims-cameroon.org/). 
 
-My current research work combines  partial differential equations, inverse problems, numerical analysis and  and scientific computing. 
-with a particular focus on builing robust computational methods for solving source inversion
-problems of PDEs using Physis-informed Neural Networks (PINNs), as well as their theoretical
-convergence analysis in approximating PDE solutions.
+My current research work combines partial differential equations, inverse problems, numerical analysis and  and scientific computing 
+with a particular focus on building robust computational methods for solving source inversion
+problems of PDEs using Physis-Informed Neural Networks (PINNs). I also study the theoretical
+convergence of PINNs, in approximating PDE solutions.
 
 
 
@@ -79,16 +79,17 @@ convergence analysis in approximating PDE solutions.
 ::: {.focus-item}
 ### Inverse problems with Physics-Informed Neural Networks
 
-My research investigates on how to develop robust data-driven methods such as Physics-informed Neural Networks for source and parameter estimation in parabolic PDEs, including adaptive training strategies such as the Neural Tangent Kernel. 
-In addition, I also estimate the approximation error bound of PINNs in solving source inversion problems from conditional
-stability based on Carlemann estimate.
+My research investigates on how to develop robust data-driven methods such as Physics-Informed Neural Networks 
+for source and parameter estimation in parabolic PDEs, including adaptive training strategies.
+In addition, I work on estimating the approximation error bound of PINNs in solving source inversion problems 
+from conditional stability based on Carlemann estimate.
 :::
 
 ::: {.focus-item}
 ### Discovering governing equations and initial condition of parabolic PDEs from sparse and noisy data
 
-I develop data-driven approaches that combine Sparse Identification of Nonlinear Dynamics (SINDy) with PINNs, 
-to discover governing equations recover and the associated initial conditions from sparse and noisy
+I develop data-driven approaches that combines Sparse Identification of Nonlinear Dynamics (SINDy) and PINNs, 
+to discover governing equations and recover the associated initial conditions from sparse and noisy
  observations of solutions of parabolic PDEs. 
 :::
 
