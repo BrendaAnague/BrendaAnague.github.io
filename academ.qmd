@@ -100,7 +100,7 @@ css: styles.css
 :::
 
 ::::
-### Research Visits
+### Research Visit
 ::: {.tl-item}
 [Nov 2024]{.tl-year}
 [Center for Industrial Mathematics (ZeTeM, Technomathematics Working Group )]{.tl-title}
