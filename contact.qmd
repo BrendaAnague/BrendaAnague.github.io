@@ -12,7 +12,7 @@ For a full version of my CV, please refer to the [pdf](Brenda_Anague_CV.pdf).
 :::: {.events}
 
 ::: {.tl-item}
-[Nov 2022–present]{.tl-year}
+[Nov 2022–Current]{.tl-year}
 [PhD in Applied Mathematics]{.tl-title}
 [AIMS RIC, Rwanda, and University of KwaZulu-Natal, South Africa]{.tl-place}<br>
 [Thesis: “Physics-Informed Neural Networks Beyond Forward Problems: Source Inversion, Equation Learning, and Convergence Theory”]{.tl-detail}<br>

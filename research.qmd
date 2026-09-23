@@ -83,7 +83,7 @@ css: styles.css
 
 ::: {.tl-item}
 [Oct 2020–Jan 2021]{.tl-year}
-[The Hamilton–Jacobi equation]{.tl-title}
+[Hamilton–Jacobi Equations]{.tl-title}
 [University of Dschang, Cameroon.]{.tl-place}<br>
 [Supervised by: Prof. Jean Louis Woukeng, Univserisy of Dschang, Cameroon.]{.tl-detail}
 :::
