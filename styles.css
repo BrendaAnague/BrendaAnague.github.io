@@ -431,14 +431,7 @@ main.content .profile-links a:hover {
   color: var(--burgundy);
 }
 
-
-.flow .chips p {
-  margin: 1.25rem 0 0.5rem;
-  font-family: var(--sans);
-  font-size: 0.9rem;
-  color: var(--muted);
-}
-
-.flow .chips p:first-child {
-  margin-top: 0;
+.internship-space {
+  display: block;
+  height: 15px;
 }
